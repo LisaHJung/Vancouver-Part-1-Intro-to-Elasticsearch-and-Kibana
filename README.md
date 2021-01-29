@@ -11,7 +11,7 @@ This repo contains all resources shared during the workshop 1.1: Intro to Elasti
 
 [Instructions](https://dev.to/elastic/downloading-elasticsearch-and-kibana-macos-linux-and-windows-1mmo) for downloading Elasticsearch and Kibana
 
-[Presentation]()
+[Presentation](https://github.com/LisaHJung/Vancouver-Part-1-Intro-to-Elasticsearch-and-Kibana/blob/main/Vancouver%20-%20Part%201%20Intro%20to%20Elasticsearch%20and%20Kibana-Beginner's%20Crash%20Course%20to%20the%20Elastic%20Stack%20Series.pdf)
 
 [Blog](https://dev.to/lisahjung/beginner-s-guide-to-elasticsearch-4j2k) Beginner's guide to Elasticsearch
 
