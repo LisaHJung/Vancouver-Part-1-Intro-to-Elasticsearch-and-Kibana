@@ -11,6 +11,8 @@ This repo contains all resources shared during the workshop 1.1: Intro to Elasti
 
 [Instructions](https://dev.to/elastic/downloading-elasticsearch-and-kibana-macos-linux-and-windows-1mmo) for downloading Elasticsearch and Kibana
 
+[Video Recording](https://www.youtube.com/watch?v=dM3AVasIvys&feature=youtu.be)of the workshop
+
 [Presentation](https://github.com/LisaHJung/Vancouver-Part-1-Intro-to-Elasticsearch-and-Kibana/blob/main/Vancouver%20-%20Part%201%20Intro%20to%20Elasticsearch%20and%20Kibana-Beginner's%20Crash%20Course%20to%20the%20Elastic%20Stack%20Series.pdf)
 
 [Blog](https://dev.to/lisahjung/beginner-s-guide-to-elasticsearch-4j2k) Beginner's guide to Elasticsearch
@@ -18,6 +20,8 @@ This repo contains all resources shared during the workshop 1.1: Intro to Elasti
 [Blog](https://dev.to/lisahjung/beginner-s-guide-to-performing-crud-operations-with-elasticsearch-kibana-1h0n) Beginner's guide to performing CRUD operations with Elasticsearch and Kibana
 
 [Elastic Vancouver Chapter](https://community.elastic.co/vancouver/) Want to attend part 2 of the workshop on Thursday, February 4th, 2021 at 4 PM PT? Join the Elastic Vancouver Chapter to get the deets!
+
+[What's next?](https://github.com/LisaHJung/Vancouver-Part-2-Understanding-the-relevance-of-your-search-with-Elasticsearch-and-Kibana/blob/main/README.md) Want to continue your learning after mastering the concept from this workshop? Move on to Part 2: Understanding the relevance of your search with Elasticsearch and Kibana [here](https://github.com/LisaHJung/Vancouver-Part-2-Understanding-the-relevance-of-your-search-with-Elasticsearch-and-Kibana/blob/main/README.md)!
 
 ## Getting information about cluster and nodes
 Syntax: 
